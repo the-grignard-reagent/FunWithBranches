@@ -20,4 +20,4 @@ Make sure to use the above format only, while commiting your changes for Subtask
 <hr>
 
 ## What to do after your PR is merged?
-Once your PR is merged, give yourself a pat on your back, for completing Subtask-2, and proceed to the branch <b>Subtask-3</b>, for further instructions.
+Once your PR is merged, give yourself another pat on your back, for completing Subtask-2, and proceed to the branch <b>Subtask-3</b>, for further instructions.
