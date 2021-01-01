@@ -1,5 +1,5 @@
 SUBTASK 2
-I have made the changes
+
 - K.T.
 He is the only first year student who has cracked GSoC, and he is always ready to help.
 
@@ -8,16 +8,19 @@ He is a senator and very helpful and kind. He is a very good friend.
 
 A.C-
 He is my tech father and very helpful and friendly.
+
 - K.T.
 He is the only first year student who has cracked GSoC, and he is always ready to help.
 
 - P.S.B.
 He is a fun person to work with, and he has an Intriguing Personality
+
 -B.D-
 He is a senator and very helpful and kind. He is a very good friend.
 
 - H.S.P.
 Whenever you need to intimidate someone, you can always rely on him, and he is always ready to help.
+
 A.C-
 He is my tech father and very helpful and friendly.
 
@@ -27,11 +30,27 @@ He is a must to have, when working in a team and has amazing App Development Ski
 - Y.G.
 She has also got amazing App Development Skills, and is a nice person.
 
+
 -N.R.
 He hlep me in my problems and he is really good in giving advice.
 
 - V.M.
 Best teacher , cool and jolly. 
+
+-K.K.
+Sir has helped me a lot and is very honest
+He does not keep any secrets and told me honestly all about IIITA.
+
+-N.K
+Mam has given me solutions to lot of problems
+Mam is also very kind and straightforward
+
+- V.M.
+We've got the same initials (Yay!!). He is  always ready to help others and has an amazing personality.
+
+-V.M.
+Best teacher and jolly
+
 
 - K.T.
 Obviously Nerdy and helps anytime
@@ -51,6 +70,23 @@ He is a nice person and helped me in getting to know about the college.
 - S.T.
 He has helped me in multiple aspect while getting into college, he connected me with right people when i had problems.
 
+-S.S.
+I like her dance and she is one female senior to whom i interected the most.
+
+-K.T.
+The way he rosts and flexes are op.
+
 - V.M.
+
 He is a kind person and has always helped me, and he cool.
+
+=======
+He is a kind person and has always helped me
+
+-K.T.
+He helped me a lot during FOSS workshop.
+He is very cool.
+
+-Y.M.
+He is helping & Friendly.
 
