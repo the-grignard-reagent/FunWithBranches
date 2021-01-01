@@ -80,9 +80,6 @@ He is helpful and I'm glad he and his team working very hard for us, and in the 
 -R.H.
 He is really helpful and explains very clearly
 
-- R.H.
-Thanks for the wonderful APK Month. Beacuse of all seniors we learnt and are learning great coding stuff.
-
 -R.H.
 He is very inspiring, a big thanxx to him for taking the pain to tae our classes in this pandemic, without your help I would not have looked at git.
 
@@ -120,3 +117,5 @@ He is eager to share his expertise instead of boasting about the same.
 - R.H.
 He is very approachable and always ready to help. He is a nice person.
 
+- R.H.
+He's helping all freshers with resources on his git repo, and he explains things REALLY well.
