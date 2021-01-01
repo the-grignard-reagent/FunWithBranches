@@ -53,7 +53,6 @@ We've got the same initials (Yay!!). He is  always ready to help others and has 
 -V.M.
 Best teacher and jolly
 
-
 - K.T.
 Obviously Nerdy and helps anytime
 
@@ -89,8 +88,8 @@ He is very cool.
 -K.T.
 He has cracked GSOC and is very helpful and calm person.
 
--Y.M.
-He is helping , Friendly and cool.
+-Y.M
+He is helping & Friendly.
 
 - S.S
 She is really helpful ready to help me in all times
@@ -118,3 +117,7 @@ he is a very good teacher and always ready to help.
 
 -V.M.
 He is always very helpful and its great to talk with
+
+-P.J
+He is a very good person and is very friendly.
+
