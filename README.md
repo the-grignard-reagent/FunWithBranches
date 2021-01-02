@@ -9,15 +9,15 @@ We have divided the Task 2, into 3️⃣ subtasks, and the points will be awarde
 ## Sub-Task 1
 You will find a folder, named as <i>Subtask-1</i> in the <b>main</b> branch of this repository. In that folder, you have to create a text file the  name of which will be your <b>Github Username</b>.  
 In that text file, you have to answer the following things :
-- Your Full Name
-- Your Nick Name (or something, you would like to be known as)
-- Your Hometown & Homestate 😂
-- What are you most excited to learn in the APK Month?
-- What all societies do you want to be a part of during your 4 years of college life?
-- The Course you Hate the Most
-- Github Profile URL
-- Facebook Profile URL
-- Instagram Profile URL
+- Your Full Name- Suraj Sarmah Pathak
+- Your Nick Name (or something, you would like to be known as)-  SRJ
+- Your Hometown & Homestate 😂- Sivasagar, Assam
+- What are you most excited to learn in the APK Month?- Web Development
+- What all societies do you want to be a part of during your 4 years of college life?- Sarasva, Virtuosi
+- The Course you Hate the Most- PFC, POM
+- Github Profile URL- https://github.com/the-grignard-reagent/
+- Facebook Profile URL- None
+- Instagram Profile URL- https://www.instagram.com/the_grignard_reagent/
   
 You will find a sample text file in that folder for your reference. Once you have answered all these ❓, you just have to save the file, and push it to the <b>main</b> branch.
 
