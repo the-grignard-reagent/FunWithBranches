@@ -94,7 +94,6 @@ He is very cool.
 -Y.M.
 He is helping & Friendly.
 
-
 -B.D.
 He is helping and friendly.
 
@@ -207,13 +206,6 @@ Super helpful and super fun! Haven't come across a cooler senior.
 
 - S.
 He is extremely helpful and cooperating.
-
-
-
-
-
-
-
 
 -V.M.
 He was very helpful during FOSS workshop and cleared my doubts.
